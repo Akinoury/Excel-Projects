@@ -5,7 +5,7 @@
 This repository serves as a **public portfolio** and a centralized collection of my **Excel Projects**.  
 Each folder represents an individual project, containing reports, datasets, and related files developed for **educational, analytical, and demonstrative purposes**.
 
-The primary objective of this repository is to **showcase technical skills**, project organization, and analytical approaches using Power BI.
+The primary objective of this repository is to **showcase technical skills**, project organization, and analytical approaches using Excel.
 
 ---
 
